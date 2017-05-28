@@ -1,6 +1,8 @@
 
 // This is a cut-down version of base2 (http://code.google.com/p/base2/)
-
+//
+//
+//
 var _slice = Array.prototype.slice;
 
 // private
